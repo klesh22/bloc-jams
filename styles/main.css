@@ -87,6 +87,11 @@ html {
      html { font-size: 112%; }
  }
  
+ container.narrow {
+     max-width: 56rem;
+ }
+
+ 
    .column {
          float: left;
          padding-left: 1rem;
